@@ -1,4 +1,8 @@
 # Face Mask Detection - Object Detection
+![4](https://github.com/user-attachments/assets/26c3e7b5-a0f8-486d-954c-74ac0c840de6)
+![1](https://github.com/user-attachments/assets/0542bf4f-fa0c-4898-80bd-9f7cfec698aa)
+
+
 
 ## Description
 This project focuses on face mask detection using object detection techniques. The model is designed to classify whether a person is wearing a mask or not, using deep learning-based image processing. This is especially relevant in health and safety applications, such as ensuring compliance with mask mandates in public places.
